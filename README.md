@@ -6,9 +6,9 @@ Primeiro Trabalho da disciplina BLU3040 - Visao Computacional em Robótica, UFSC
 Criar um panoramicas a partir de um conjunto de imagens.
 
 ## Quick start:
-<p>1- Fazer download completo do repositório<p>
-2 -Executar o arquivo 'Avaliacao_1_homografia.m'
-3 - Abrir as janelas para ver o panorama.
+<p>1- Fazer download completo do repositório.<p>
+<p>2 -Executar o arquivo 'Avaliacao_1_homografia.m'.<p>
+<p>3 - Abrir as janelas para ver o panorama.<p>
 
 ## How it works
 - Parte 1: Carregar imagens
