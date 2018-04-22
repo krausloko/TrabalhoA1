@@ -11,21 +11,21 @@ Criar um panoramicas a partir de um conjunto de imagens.
 <p>3 - Abrir as janelas para ver o panorama.<p>
 
 ## How it works
-**- Parte 1: Carregar imagens**
+**- Parte 1: Carregar imagens**  
 As imagens do dataset são carregadas na celula I  
-**- Parte 2: Passar imagens para escala de cinza (algumas funções fazem isto de forma automática)**
+**- Parte 2: Passar imagens para escala de cinza (algumas funções fazem isto de forma automática)**  
  Transformar as imagens coloridas para escala de cinza  
-**- Parte 3: Verificar tamanho do conjunto de imagens, encontrar features, encontrar matches, calcular homografia otimizada**
+**- Parte 3: Verificar tamanho do conjunto de imagens, encontrar features, encontrar matches, calcular homografia otimizada**  
  Verificar o tamanho de I - quantas imagens existem no conjunto  
  Aplicar função _isurf_ para encontrar features da imagem I(i)  
  Comparar features das Imagens I(i) e I(i-1) para encontrar matches  
  Utilizar função iterativa _ransac_ para calcular a melhor homografia que relaciona I(i) e I(i-1)   
  Calcular homografia global para relacionar I(i) com I(1).  
-**- Parte 4: Testar Homografia**
+**- Parte 4: Testar Homografia**  
  Aplicar homografia para verficar resultado  
-**- Parte 5: Carregar imagens novamente**
+**- Parte 5: Carregar imagens novamente**  
  Carregar imagens coloridas novamente  
-**- Parte 6: Construir Panorama**
+**- Parte 6: Construir Panorama**  
  Construir panorama com as imagens transformadas  
 
 
