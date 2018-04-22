@@ -11,7 +11,7 @@ Criar um panoramicas a partir de um conjunto de imagens.
 <p>3 - Abrir as janelas para ver o panorama.<p>
 
 ## How it works
-**- Parte 1: Carregar imagens**
+<p> **- Parte 1: Carregar imagens** <p>
  As imagens do dataset são carregadas na celula I
 **- Parte 2: Passar imagens para escala de cinza (algumas funções fazem isto de forma automática)**
  Transformar as imagens coloridas para escala de cinza
