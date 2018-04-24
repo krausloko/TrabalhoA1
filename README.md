@@ -3,11 +3,11 @@
 Primeiro Trabalho da disciplina BLU3040 - Visao Computacional em Robótica, UFSC - Campus Blumenau
 
 ## Função:
-O algoritmo desenvolvido é capaz de criar uma imagem panorâmica a partir de um conjunto de imagens.  **Dataset**  ![building1](https://user-images.githubusercontent.com/35512686/39162585-9d2aba6e-474c-11e8-9dc5-d646d0621f64.JPG)
+O algoritmo desenvolvido é capaz de criar uma imagem panorâmica a partir de um conjunto de imagens.  <p>**Dataset**<p>  ![building1](https://user-images.githubusercontent.com/35512686/39162585-9d2aba6e-474c-11e8-9dc5-d646d0621f64.JPG)
 ![building2](https://user-images.githubusercontent.com/35512686/39162586-9d55aef4-474c-11e8-88b3-ab9239e4d800.JPG)
 ![building3](https://user-images.githubusercontent.com/35512686/39162587-9d812ade-474c-11e8-8250-b14df9318203.JPG)
 ![building4](https://user-images.githubusercontent.com/35512686/39162589-9dac12ee-474c-11e8-9067-80fa51a4cea4.JPG)
-![building5](https://user-images.githubusercontent.com/35512686/39162591-9defa7b6-474c-11e8-8059-2e46194290de.JPG)  **Resultado**  ![resultado](https://user-images.githubusercontent.com/35512686/39167838-94c8c65c-4767-11e8-9f0b-8600ba6cc797.jpg)  
+![building5](https://user-images.githubusercontent.com/35512686/39162591-9defa7b6-474c-11e8-8059-2e46194290de.JPG) <p>**Resultado**<p>  ![resultado](https://user-images.githubusercontent.com/35512686/39167838-94c8c65c-4767-11e8-9f0b-8600ba6cc797.jpg)  
 
 ## Quick start:
 <p>1- Fazer download completo do repositório.<p>
