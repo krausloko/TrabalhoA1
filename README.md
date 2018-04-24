@@ -3,8 +3,7 @@
 Primeiro Trabalho da disciplina BLU3040 - Visao Computacional em Robótica, UFSC - Campus Blumenau
 
 ## Função:
-<p>O algoritmo desenvolvido é capaz de criar uma imagem panorâmica a partir de um conjunto de imagens.<p>
-   ![panorama_final_referencia_central](https://user-images.githubusercontent.com/35512686/39162627-d3b9acd4-474c-11e8-9385-1fbd8184f992.jpg)
+<p>O algoritmo desenvolvido é capaz de criar uma imagem panorâmica a partir de um conjunto de imagens.  ![panorama_final](https://user-images.githubusercontent.com/35512686/39162626-d38fc004-474c-11e8-82f8-36487c501ba8.jpg)
 
 ## Quick start:
 <p>1- Fazer download completo do repositório.<p>
