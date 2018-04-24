@@ -12,7 +12,7 @@ O algoritmo desenvolvido é capaz de criar uma imagem panorâmica a partir de um
 <p>4- Optar por uma das referências possíveis: 0 para imagem do canto ou 1 para imagem central.<p>
 <p>5- Abrir as janelas para ver o panorama.<p>
 
-## How it works
+## How it works:
 **Parte 1: Carregar imagens**  
 As imagens do dataset são carregadas na celula I  
 **Parte 2: Passar imagens para escala de cinza (algumas funções fazem isto de forma automática)**  
@@ -33,7 +33,7 @@ As imagens do dataset são carregadas na celula I
 
 Para ver o embasamento teórico e explicação detalhada do código basta ler o arquivo 'Relatório A1 - Visão Computacional.pdf'
 
-## Results
+## Results:
 **Dataset**  
  ![building1](https://user-images.githubusercontent.com/35512686/39162585-9d2aba6e-474c-11e8-9dc5-d646d0621f64.JPG)
  ![building2](https://user-images.githubusercontent.com/35512686/39162586-9d55aef4-474c-11e8-88b3-ab9239e4d800.JPG)
