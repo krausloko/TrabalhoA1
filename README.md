@@ -3,12 +3,15 @@
 Primeiro Trabalho da disciplina BLU3040 - Visao Computacional em Robótica, UFSC - Campus Blumenau
 
 ## Função:
-Criar um panoramicas a partir de um conjunto de imagens.
+<p>O algoritmo desenvolvido é capaz de criar uma imagem panorâmica a partir de um conjunto de imagens.<p>
+![panorama_final_referencia_central](https://user-images.githubusercontent.com/35512686/39162627-d3b9acd4-474c-11e8-9385-1fbd8184f992.jpg)
 
 ## Quick start:
 <p>1- Fazer download completo do repositório.<p>
-<p>2 -Executar o arquivo 'Avaliacao_1_homografia.m'.<p>
-<p>3 - Abrir as janelas para ver o panorama.<p>
+<p>2- Executar o arquivo 'Avaliacao_1_homografia.m'.<p>
+<p>3- Inserir o caminho para a pasta com conjunto de imagens (dataset) 'Avaliacao_1_homografia.m'.<p>
+<p>4- Optar por uma das referências possíveis: 0 para imagem do canto ou 1 para imagem central.<p>
+<p>5- Abrir as janelas para ver o panorama.<p>
 
 ## How it works
 **Parte 1: Carregar imagens**  
